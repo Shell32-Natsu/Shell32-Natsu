@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shell32-natsu" alt="shell32-natsu" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Kubernetes**
+- 🌱 I’m currently learning **Golang, Kubernetes and Linux kernel**.
+
+- I am working on Linux kernel stuffs full-time now.
 
 - 📝 I regulary write articles on [https://blog.xiadong.info](https://blog.xiadong.info)
 
