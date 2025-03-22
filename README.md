@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Donny</h1>
-<h3 align="center">A learner, programmer and Googler.</h3>
+<h3 align="center">A learner and programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shell32-natsu&label=Profile%20views&color=0e75b6&style=flat" alt="shell32-natsu" /> </p>
 
