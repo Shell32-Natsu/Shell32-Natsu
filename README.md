@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shell32-natsu" alt="shell32-natsu" /></a> </p>
 
-- 🌱 I’m currently learning **Linux kernel**.
+- 🌱 I’m currently learning **Observabilities Infra**.
 
-- I am working on Linux kernel stuffs full-time now.
+- I am working on observabilities infra at Anthropic now.
+
+- Ex-Googler, worked on k8s core and Linux kernel.
 
 - 📝 I regulary write articles on [https://blog.xiadong.info](https://blog.xiadong.info)
 
