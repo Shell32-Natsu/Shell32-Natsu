@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shell32-natsu" alt="shell32-natsu" /></a> </p>
 
-- 🌱 I’m currently learning **Observabilities Infra**.
-
 - I am working on observabilities infra at Anthropic now.
 
 - Ex-Googler, worked on k8s core and Linux kernel.
